@@ -37,7 +37,7 @@ Plan des slides
 - 361: *Application de la Régression* (analyse du prix des logements) [pdf](ici)
 - 371: *Application de la Calssification* [pdf](ici)
 - **Compléments de Mathématiques**
-- 401: *Mathématiques, concepts généraux* (logarithme, exponentielle, dérivée, intégrale, approximation, comptage) [pdf](ici)
+- 401: *Mathématiques, concepts généraux* (logarithme, exponentielle, dérivée, intégrale, approximation, comptage) [pdf](/slides/INF7100-401.pdf)
 - 411: *Optimisation* (cas des fonctions continues, condition du premier ordre, descente de gradient, Lagrangien) [pdf](ici)
 - 421: *Vecteurs et Matrices* (orthogonalité, distance, norme, tenseurs) [pdf](ici)
 - 422: *Algèbre Linéaire* (déterminnant, valeurs propres, vecteurs propres, formes quadratiques, approximations) [pdf](ici)
