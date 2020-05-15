@@ -2,7 +2,7 @@
 Introduction à la science des données et à l’intelligence artificielle
 
 Plan des slides
-- 001: *Introduction* [pdf](ici)
+- 001: *Introduction* (plan général)( [pdf](ici)
 - **Données**
 - 101:
 - **Incertitude et Statistique**
