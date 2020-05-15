@@ -2,6 +2,14 @@
 Introduction à la science des données et à l’intelligence artificielle
 
 Plan des slides
+- 001: *Introduction* [pdf](ici)
+- **Données**
+- 101:
+- **Incertitude et Statistique**
+- 201:
+- **Prévision**
+- 301:
+- **Compléments de Mathématiques**
 - 401: *Mathématiques, concepts généraux* (logarithme, exponentielle, dérivée, intégrale, approximation, comptage) [pdf](ici)
 - 411: *Optimisation* (cas des fonctions continues, condition du premier ordre, descente de gradient, Lagrangien)
 - 421: *Vecteurs et Matrices* (orthogonalité, distance, norme, tenseurs)
