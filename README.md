@@ -41,7 +41,7 @@ Plan des slides
 - 411: *Optimisation* (cas des fonctions continues, condition du premier ordre, descente de gradient, Lagrangien) [pdf](/slides/INF7100-411.pdf)
 - 412: *Ensembles* (intersection, unions, fusion de bases, convexité, centroïdes) [pdf](/slides/INF7100-412.pdf)
 - 421: *Vecteurs et Matrices* (orthogonalité, distance, norme, tenseurs) [pdf](/slides/INF7100-421.pdf)
-- 422: *Algèbre Linéaire* (déterminnant, valeurs propres, vecteurs propres, formes quadratiques, approximations) [pdf](/slides/INF7100-422.pdf)
+- 422: *Algèbre Linéaire* (déterminant, valeurs propres, vecteurs propres, formes quadratiques, approximations) [pdf](/slides/INF7100-422.pdf)
 - 423: *Coordonnées* (données circulaires, coordonnées polaires, projection, spatial) [pdf](/slides/INF7100-423.pdf)
 - 431: *Loi Gaussienne* (loi normale, cas multivariée, limite et approximation, loi des grands nombres) [pdf](/slides/INF7100-431.pdf)
 - 432: *Lois Puissance* (changement d'échelle, loi puissance, Zipf, Benford) [pdf](/slides/INF7100-432.pdf)
