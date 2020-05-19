@@ -37,8 +37,8 @@ Plan des slides
 - 361: *Application de la Régression* (analyse du prix des logements) [pdf](/slides/INF7100-361.pdf)
 - 371: *Application de la Calssification* [pdf](/slides/INF7100-371.pdf)
 - **Compléments de Mathématiques**
-- 401: *Mathématiques, concepts généraux* (logarithme, exponentielle, dérivée, intégrale, approximation, comptage) [pdf](/slides/INF7100-401.pdf) [video](https://www.youtube.com/watch?v=yoHlGHhRVXw&list=PLCrFTE7Gu_3T56FoAJrSMHNTKXn9P2gDQ) (38:57)
-- 411: *Optimisation* (cas des fonctions continues, condition du premier ordre, descente de gradient, Lagrangien) [pdf](/slides/INF7100-411.pdf) [video](https://www.youtube.com/watch?v=meQ--QGuxZ8&list=PLCrFTE7Gu_3T56FoAJrSMHNTKXn9P2gDQ) (31:33)
+- 401: *Concepts généraux* (logarithme, exponentielle, dérivée, intégrale, approximation) [pdf](/slides/INF7100-401.pdf) [video](https://www.youtube.com/watch?v=yoHlGHhRVXw&list=PLCrFTE7Gu_3T56FoAJrSMHNTKXn9P2gDQ) (38:57)
+- 411: *Optimisation* (condition du premier ordre, descente de gradient, Lagrangien) [pdf](/slides/INF7100-411.pdf) [video](https://www.youtube.com/watch?v=meQ--QGuxZ8&list=PLCrFTE7Gu_3T56FoAJrSMHNTKXn9P2gDQ) (31:33)
 - 412: *Ensembles* (intersection, unions, fusion de bases, convexité, centroïdes) [pdf](/slides/INF7100-412.pdf) [video](https://www.youtube.com/watch?v=mMFmBP4mJSQ&list=PLCrFTE7Gu_3T56FoAJrSMHNTKXn9P2gDQ) (10:13)
 - 421: *Vecteurs et Matrices* (orthogonalité, distance, norme, tenseurs) [pdf](/slides/INF7100-421.pdf) [video](https://www.youtube.com/watch?v=GAht19dHtGU&list=PLCrFTE7Gu_3T56FoAJrSMHNTKXn9P2gDQ) (43:20)
 - 422: *Algèbre Linéaire* (déterminant, valeurs propres, vecteurs propres, formes quadratiques, approximations) [pdf](/slides/INF7100-422.pdf) 
