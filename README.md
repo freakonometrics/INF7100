@@ -2,7 +2,7 @@
 Introduction à la science des données et à l’intelligence artificielle
 
 Plan des slides
-- 001: *Introduction* (plan général) [pdf](/slides/INF7100-001.pdf) [video](https://www.youtube.com/watch?v=yoHlGHhRVXw&list=PLCrFTE7Gu_3T56FoAJrSMHNTKXn9P2gDQ) (22:24)
+- 001: *Introduction* (plan général) [pdf](/slides/INF7100-001.pdf) [video](https://www.youtube.com/watch?v=yoHlGHhRVXw&list=PLCrFTE7Gu_3T56FoAJrSMHNTKXn9P2gDQ) (27:31)
 - **Données**
 - 111: *Observation vs. Expérimentation* [pdf](/slides/INF7100-111.pdf)
 - 112: *Données Observationnelles et Biais* [pdf](/slides/INF7100-112.pdf)
