@@ -2,11 +2,11 @@
 Introduction à la science des données et à l’intelligence artificielle
 
 Plan des slides
-- 001: *Introduction* (plan général) [pdf](/slides/INF7100-001.pdf)
+- 001: *Introduction* (plan général) [pdf](/slides/INF7100-001.pdf) [video](https://www.youtube.com/watch?v=yoHlGHhRVXw&list=PLCrFTE7Gu_3T56FoAJrSMHNTKXn9P2gDQ) (22:24)
 - **Données**
 - 111: *Observation vs. Expérimentation* [pdf](/slides/INF7100-111.pdf)
 - 112: *Données Observationnelles et Biais* [pdf](/slides/INF7100-112.pdf)
-- 121: *Paradoxe de Simpson* [pdf](/slides/INF7100-121.pdf)
+- 121: *Paradoxe de Simpson* [pdf](/slides/INF7100-121.pdf) [video](https://www.youtube.com/watch?v=GAht19dHtGU&list=PLCrFTE7Gu_3T56FoAJrSMHNTKXn9P2gDQ) (22:24)
 - 122: *Recherche de Contrefactuels* [pdf](/slides/INF7100-122.pdf)
 - 123: *A/B Testing et Renforcement* [pdf](/slides/INF7100-123.pdf)
 - 131: *Incertitude* (1) [pdf](/slides/INF7100-131.pdf)
@@ -37,11 +37,11 @@ Plan des slides
 - 361: *Application de la Régression* (analyse du prix des logements) [pdf](/slides/INF7100-361.pdf)
 - 371: *Application de la Calssification* [pdf](/slides/INF7100-371.pdf)
 - **Compléments de Mathématiques**
-- 401: *Mathématiques, concepts généraux* (logarithme, exponentielle, dérivée, intégrale, approximation, comptage) [pdf](/slides/INF7100-401.pdf)
-- 411: *Optimisation* (cas des fonctions continues, condition du premier ordre, descente de gradient, Lagrangien) [pdf](/slides/INF7100-411.pdf)
-- 412: *Ensembles* (intersection, unions, fusion de bases, convexité, centroïdes) [pdf](/slides/INF7100-412.pdf)
-- 421: *Vecteurs et Matrices* (orthogonalité, distance, norme, tenseurs) [pdf](/slides/INF7100-421.pdf)
-- 422: *Algèbre Linéaire* (déterminant, valeurs propres, vecteurs propres, formes quadratiques, approximations) [pdf](/slides/INF7100-422.pdf)
+- 401: *Mathématiques, concepts généraux* (logarithme, exponentielle, dérivée, intégrale, approximation, comptage) [pdf](/slides/INF7100-401.pdf) [video](https://www.youtube.com/watch?v=yoHlGHhRVXw&list=PLCrFTE7Gu_3T56FoAJrSMHNTKXn9P2gDQ) (38:57)
+- 411: *Optimisation* (cas des fonctions continues, condition du premier ordre, descente de gradient, Lagrangien) [pdf](/slides/INF7100-411.pdf) [video](https://www.youtube.com/watch?v=meQ--QGuxZ8&list=PLCrFTE7Gu_3T56FoAJrSMHNTKXn9P2gDQ) (31:33)
+- 412: *Ensembles* (intersection, unions, fusion de bases, convexité, centroïdes) [pdf](/slides/INF7100-412.pdf) [video](https://www.youtube.com/watch?v=mMFmBP4mJSQ&list=PLCrFTE7Gu_3T56FoAJrSMHNTKXn9P2gDQ) (10:13)
+- 421: *Vecteurs et Matrices* (orthogonalité, distance, norme, tenseurs) [pdf](/slides/INF7100-421.pdf) [video](https://www.youtube.com/watch?v=GAht19dHtGU&list=PLCrFTE7Gu_3T56FoAJrSMHNTKXn9P2gDQ) (43:20)
+- 422: *Algèbre Linéaire* (déterminant, valeurs propres, vecteurs propres, formes quadratiques, approximations) [pdf](/slides/INF7100-422.pdf) 
 - 423: *Coordonnées* (données circulaires, coordonnées polaires, projection, spatial) [pdf](/slides/INF7100-423.pdf)
 - 431: *Loi Gaussienne* (loi normale, cas multivariée, limite et approximation, loi des grands nombres) [pdf](/slides/INF7100-431.pdf)
 - 432: *Lois Puissance* (changement d'échelle, loi puissance, Zipf, Benford) [pdf](/slides/INF7100-432.pdf)
