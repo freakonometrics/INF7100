@@ -4,13 +4,13 @@ Introduction à la science des données et à l’intelligence artificielle
 Plan des slides
 - 001: *Introduction* (plan général) [pdf](/slides/INF7100-001.pdf) [video](https://www.youtube.com/watch?v=yoHlGHhRVXw&list=PLCrFTE7Gu_3T56FoAJrSMHNTKXn9P2gDQ) (27:31)
 - **Données**
-- 111: *Observation vs. Expérimentation* [pdf](/slides/INF7100-111.pdf)
-- 112: *Données Observationnelles et Biais* [pdf](/slides/INF7100-112.pdf)
+- 111: *Observation vs. Expérimentation* [pdf](/slides/INF7100-111.pdf) [video](https://www.youtube.com/watch?v=H0kCAO5GQ5s) (19:48)
+- 112: *Données Observationnelles et Biais* [pdf](/slides/INF7100-112.pdf) [video](https://www.youtube.com/watch?v=OJhz-J4yLuM) (22:39)
 - 121: *Paradoxe de Simpson* [pdf](/slides/INF7100-121.pdf) [video](https://www.youtube.com/watch?v=GAht19dHtGU&list=PLCrFTE7Gu_3T56FoAJrSMHNTKXn9P2gDQ) (22:24)
-- 122: *Recherche de Contrefactuels* [pdf](/slides/INF7100-122.pdf)
-- 123: *A/B Testing et Renforcement* [pdf](/slides/INF7100-123.pdf)
-- 131: *Incertitude* (1) [pdf](/slides/INF7100-131.pdf)
-- 132: *Incertitude* (2) [pdf](/slides/INF7100-132.pdf)
+- 122: *Recherche de Contrefactuels* [pdf](/slides/INF7100-122.pdf) [video](https://www.youtube.com/watch?v=QdOug2zNNdo) (25:27)
+- 123: *A/B Testing et Renforcement* [pdf](/slides/INF7100-123.pdf) [video]() (12:13)
+- 131: *Incertitude* (1) [pdf](/slides/INF7100-131.pdf) [video](https://www.youtube.com/watch?v=t2ivsQ1-1Fo) (39:01)
+- 132: *Incertitude* (2) [pdf](/slides/INF7100-132.pdf) [video](https://www.youtube.com/watch?v=TmOshkTbuvI) (41:45)
 - **Incertitude et Statistique**
 - 201: *De la Statistique aux Sciences de Données* [pdf](/slides/INF7100-201.pdf)
 - 211: *Fonctions Usuelles en Statistique* (fonction de réparition, densité, histogramme) [pdf](/slides/INF7100-211.pdf)
