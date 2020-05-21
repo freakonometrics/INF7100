@@ -8,7 +8,7 @@ Plan des slides
 - 112: *Données Observationnelles et Biais* [pdf](/slides/INF7100-112.pdf) [video](https://www.youtube.com/watch?v=OJhz-J4yLuM) (22:39)
 - 121: *Paradoxe de Simpson* [pdf](/slides/INF7100-121.pdf) [video](https://www.youtube.com/watch?v=GAht19dHtGU&list=PLCrFTE7Gu_3T56FoAJrSMHNTKXn9P2gDQ) (22:24)
 - 122: *Recherche de Contrefactuels* [pdf](/slides/INF7100-122.pdf) [video](https://www.youtube.com/watch?v=QdOug2zNNdo) (25:27)
-- 123: *A/B Testing et Renforcement* [pdf](/slides/INF7100-123.pdf) [video]() (12:13)
+- 123: *A/B Testing et Renforcement* [pdf](/slides/INF7100-123.pdf) [video](https://www.youtube.com/watch?v=4f6KhBsowH0) (12:13)
 - 131: *Incertitude* (1) [pdf](/slides/INF7100-131.pdf) [video](https://www.youtube.com/watch?v=t2ivsQ1-1Fo) (39:01)
 - 132: *Incertitude* (2) [pdf](/slides/INF7100-132.pdf) [video](https://www.youtube.com/watch?v=TmOshkTbuvI) (41:45)
 - **Incertitude et Statistique**
