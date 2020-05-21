@@ -1,7 +1,7 @@
 # INF7100
-Introduction à la science des données et à l’intelligence artificielle
+**Introduction à la science des données et à l’intelligence artificielle**
 
-Plan des slides
+## Plan des slides / capsules vidéos
 - 001: *Introduction* (plan général) [pdf](/slides/INF7100-001.pdf) [video](https://www.youtube.com/watch?v=yoHlGHhRVXw&list=PLCrFTE7Gu_3T56FoAJrSMHNTKXn9P2gDQ) (27:31)
 - **Données**
 - 111: *Observation vs. Expérimentation* [pdf](/slides/INF7100-111.pdf) [video](https://www.youtube.com/watch?v=H0kCAO5GQ5s) (19:48)
@@ -47,3 +47,6 @@ Plan des slides
 - 432: *Lois Puissance* (changement d'échelle, loi puissance, Zipf, Benford) [pdf](/slides/INF7100-432.pdf)
 - 433: *Loi de Durée* (loi géométrique, loi exponentielle, loi de Poisson, loi des petits nombres) [pdf](/slides/INF7100-433.pdf)
 - 434: *Modèle de Markov* (données séquentielles) [pdf](/slides/INF7100-434.pdf)
+
+## Devoir
+[articles](devoir.md)
