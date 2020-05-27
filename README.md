@@ -38,7 +38,7 @@
 - 351: *Classification* (analyse discriminante, régression logistique, probit) [pdf](/slides/INF7100-351.pdf)
 - 352: *Courbe ROC* [pdf](/slides/INF7100-352.pdf)
 - 361: *Application de la Régression* (analyse du prix des logements) [pdf](/slides/INF7100-361.pdf)
-- 371: *Application de la Calssification* [pdf](/slides/INF7100-371.pdf)
+- 371: *Application de la Classification* [pdf](/slides/INF7100-371.pdf)
 - **Compléments de Mathématiques**
 - 401: *Concepts généraux* (logarithme, exponentielle, dérivée, intégrale, approximation) [pdf](/slides/INF7100-401.pdf) [video](https://www.youtube.com/watch?v=yoHlGHhRVXw&list=PLCrFTE7Gu_3T56FoAJrSMHNTKXn9P2gDQ) (38:57)
 - 411: *Optimisation* (condition du premier ordre, descente de gradient, Lagrangien) [pdf](/slides/INF7100-411.pdf) [video](https://www.youtube.com/watch?v=meQ--QGuxZ8&list=PLCrFTE7Gu_3T56FoAJrSMHNTKXn9P2gDQ) (31:33)
