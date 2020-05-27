@@ -1,6 +1,9 @@
 # INF7100
 **Introduction à la science des données et à l’intelligence artificielle**
 
+## Forum de discussion
+- [https://mattermost.info.uqam.ca/inf7100-20202/](https://mattermost.info.uqam.ca/inf7100-20202/channels/town-square)
+
 ## Plan des slides / capsules vidéos
 - 001: *Introduction* (plan général) [pdf](/slides/INF7100-001.pdf) [video](https://www.youtube.com/watch?v=yoHlGHhRVXw&list=PLCrFTE7Gu_3T56FoAJrSMHNTKXn9P2gDQ) (27:31)
 - **Données**
