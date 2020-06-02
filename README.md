@@ -51,7 +51,7 @@
 - 433: *Loi de Durée* (loi géométrique, loi exponentielle, loi de Poisson, loi des petits nombres) [pdf](/slides/INF7100-433.pdf)
 - 434: *Modèle de Markov* (données séquentielles) [pdf](/slides/INF7100-434.pdf) [video](https://www.youtube.com/watch?v=Q1IcK4eCdoA) (19:00)
 - **Fourre-Tout**
-- 500: *Paquets Python* [pdf](/slides/INF7100-500.pdf) 
+- 500: *Paquets Python* [pdf](/slides/INF71000-500.pdf) 
 
 ## Devoir
 [articles](devoir.md)
