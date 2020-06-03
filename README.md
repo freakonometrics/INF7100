@@ -48,7 +48,7 @@
 - 423: *Coordonnées* (données circulaires, coordonnées polaires, projection, spatial) [pdf](/slides/INF7100-423.pdf) [video](https://www.youtube.com/watch?v=m7vrV7RccOU) (26:19)
 - 431: *Loi Gaussienne* (loi normale, cas multivariée, limite et approximation, loi des grands nombres) [pdf](/slides/INF7100-431.pdf) [video](https://www.youtube.com/watch?v=Ztkq8jDpnwQ) (17:37)
 - 432: *Lois Puissance* (changement d'échelle, loi puissance, Zipf, Benford) [pdf](/slides/INF7100-432.pdf) [video](https://www.youtube.com/watch?v=-pqxHRzzGF0) (19:33)
-- 433: *Loi de Durée* (loi géométrique, loi exponentielle, loi de Poisson, loi des petits nombres) [pdf](/slides/INF7100-433.pdf)
+- 433: *Loi de Durée* (loi géométrique, loi exponentielle, loi de Poisson, loi des petits nombres) [pdf](/slides/INF7100-433.pdf) [video](https://www.youtube.com/watch?v=6dIXDyKxeOE) (35:47)
 - 434: *Modèle de Markov* (données séquentielles) [pdf](/slides/INF7100-434.pdf) [video](https://www.youtube.com/watch?v=Q1IcK4eCdoA) (19:00)
 - **Fourre-Tout**
 - 500: *Paquets Python* [pdf](/slides/INF71000-500.pdf) 
